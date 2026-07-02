@@ -1,0 +1,6 @@
+com/certdrift/storage/DefaultSnapshotStoreTest.class
+com/certdrift/scoring/RiskScoringEngineTest.class
+com/certdrift/drift/DriftEngineTest.class
+com/certdrift/analyzer/HeaderAnalyzerTest.class
+com/certdrift/analyzer/TlsAnalyzerTest.class
+com/certdrift/report/ReportRendererTest.class

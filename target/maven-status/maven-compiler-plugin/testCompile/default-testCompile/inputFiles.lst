@@ -1,0 +1,6 @@
+/workspaces/CertDrift/src/test/java/com/certdrift/analyzer/HeaderAnalyzerTest.java
+/workspaces/CertDrift/src/test/java/com/certdrift/analyzer/TlsAnalyzerTest.java
+/workspaces/CertDrift/src/test/java/com/certdrift/drift/DriftEngineTest.java
+/workspaces/CertDrift/src/test/java/com/certdrift/report/ReportRendererTest.java
+/workspaces/CertDrift/src/test/java/com/certdrift/scoring/RiskScoringEngineTest.java
+/workspaces/CertDrift/src/test/java/com/certdrift/storage/DefaultSnapshotStoreTest.java
